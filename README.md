@@ -1,8 +1,8 @@
 🌍 Hi, we're @EcoAlaxy
-- 👀 We're dedicated to merging digital innovation with environmental sustainability, creating a platform where technology not only coexists with nature but actively supports its preservation and rejuvenation.
-- 🌱 We're currently exploring innovative solutions in blockchain and AI technologies to enhance our sustainability initiatives, secure IT asset disposition, and promote recycling and reuse.
-- 💞️ We're looking to collaborate on projects that drive environmental stewardship forward, including but not limited to blockchain for sustainability, AI-driven recycling programs, and digital platforms that support green practices.
-- 📫 How to reach us: [Insert contact method — could be an email, EcoAlaxy platform link, or a social media handle]
+- 👀 We're dedicated to merging digital innovation with care for the environment, creating a platform where technology not only coexists with nature but actively supports its preservation and renewal.
+- 🌱 We're currently exploring innovative solutions in blockchain and AI technologies to support secure IT asset disposition and to promote recycling and reuse.
+- 💞️ We're looking to collaborate on projects that move environmental stewardship forward, including blockchain for responsible supply chains, AI-driven recycling programs, and digital platforms that support responsible practices.
+- 📫 How to reach us: https://ecopawst.com/shop · support@ecopawst.com
 
 <!---
 EcoAlaxy/EcoAlaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
